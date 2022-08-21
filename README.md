@@ -37,5 +37,5 @@ The collections are attahced with in the repo
 
 ![image](https://user-images.githubusercontent.com/10340740/185795037-eaa97e0a-0e2f-42ab-9abe-6e4d9cfb3682.png)
 
-code is 
+As we can see above code coverage , we are able to cover 100% code coverage for all the classess except model/pojo classes. 
 
