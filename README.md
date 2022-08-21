@@ -34,3 +34,8 @@ Install postman
 create collection with url
 
 The collections are attahced with in the repo
+
+![image](https://user-images.githubusercontent.com/10340740/185795037-eaa97e0a-0e2f-42ab-9abe-6e4d9cfb3682.png)
+
+code is 
+
