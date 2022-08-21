@@ -10,6 +10,13 @@ import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * 
+ * @author Munisekhar Rangineni
+ * 
+ * RewardModel pojo
+ *
+ */
 @Entity
 @Table(name = "rewards")
 @Data

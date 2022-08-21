@@ -7,7 +7,13 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 import lombok.Data;
-
+/**
+ * 
+ * @author Munisekhar Rangineni
+ * 
+ * PurchaseModel pojo class
+ *
+ */
 @Entity
 @Table(name = "purchases")
 @Data

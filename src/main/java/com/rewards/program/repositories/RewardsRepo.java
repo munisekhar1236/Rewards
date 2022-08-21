@@ -5,6 +5,13 @@ import org.springframework.stereotype.Repository;
 
 import com.rewards.program.model.RewardsModel;
 
+/**
+ * 
+ * @author Munisekhar Rangineni
+ * 
+ * This is a JPA interface and it is used to save or retrieve data from Rewards table.
+ *
+ */
 @Repository
 public interface RewardsRepo extends JpaRepository<RewardsModel, Integer>{
 	

@@ -1,0 +1,5 @@
+com.rewards.program
+com.rewards.program.controller
+com.rewards.program.model
+com.rewards.program.repositories
+com.rewards.program.service
